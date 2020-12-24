@@ -5,6 +5,7 @@
 > iBooker 开源社区正式加入“环材化生劝退”计划，接受相关内容的投稿。[同时也接受各种环材化生转行咨询](https://home.apachecn.org/#/docs/map/)。
 
 * [在线阅读](https://bcem.apachecn.org)
+* [在线阅读（Gitee）](https://apachecn.gitee.io/bio-chem-env-mat-discourage/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
 ## 联系方式
