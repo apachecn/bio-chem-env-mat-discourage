@@ -2,6 +2,8 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
+> 劝退一人胜发七篇 CNS。
+> 
 > iBooker 开源社区正式加入“环材化生劝退”计划，接受相关内容的投稿。[同时也接受各种环材化生转行咨询](https://home.apachecn.org/#/docs/map/)。
 
 * [在线阅读](https://bcem.apachecn.org)
