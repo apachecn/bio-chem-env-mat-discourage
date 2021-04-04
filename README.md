@@ -2,7 +2,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 劝退一人胜发七篇 CNS。
+> 某位哲人说过，没吃过地沟油，没穿过莆田造，没住过隔断间，没坐过绿皮车者，俱不足语人生。 我想说的是，只要你报考了生物专业，这些，你都会拥有。——王蘑菇
 > 
 > iBooker 开源社区正式加入“环材化生劝退”计划，接受相关内容的投稿。[同时也接受各种环材化生转行咨询](https://home.apachecn.org/#/docs/map/)。
 
